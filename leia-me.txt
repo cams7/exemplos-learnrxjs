@@ -9,3 +9,10 @@ npm run start
 
 cd "C:\Desenv\My\learnrxjs\startWith"
 npm run start
+
+cd "C:\Desenv\My\learnrxjs"
+git init
+git remote add origin https://github.com/cams7/exemplos-learnrxjs.git
+git remote -v
+git pull origin master --allow-unrelated-histories
+git push origin master
