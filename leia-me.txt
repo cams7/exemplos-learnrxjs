@@ -5,9 +5,11 @@ npm install webpack-cli --save-dev
 npm run start
 
 cd "C:\Desenv\My\learnrxjs\combineAll"
+npm install
 npm run start
 
 cd "C:\Desenv\My\learnrxjs\startWith"
+npm install
 npm run start
 
 cd "C:\Desenv\My\learnrxjs"
@@ -16,3 +18,7 @@ git remote add origin https://github.com/cams7/exemplos-learnrxjs.git
 git remote -v
 git pull origin master --allow-unrelated-histories
 git push origin master
+
+cd "C:\Desenv\My\learnrxjs\combineLatest"
+npm install
+npm run start
