@@ -1,0 +1,11 @@
+cd "C:\Desenv\My\learnrxjs\rxjs-test"
+npm init -y
+npm install rxjs webpack webpack-dev-server typescript ts-loader
+npm install webpack-cli --save-dev
+npm run start
+
+cd "C:\Desenv\My\learnrxjs\combineAll"
+npm run start
+
+cd "C:\Desenv\My\learnrxjs\startWith"
+npm run start
