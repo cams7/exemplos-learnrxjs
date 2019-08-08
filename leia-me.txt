@@ -27,5 +27,6 @@ cd "C:\Desenv\My\learnrxjs\startWith"
 npm install
 npm run start
 
-
-
+cd "C:\Desenv\Vagrant\dev190107\my\learnrxjs\interval"
+npm install
+npm run start
